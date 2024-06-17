@@ -41,6 +41,4 @@ func main()  {
    z = float64(m)
    fmt.Printf("%v of type %T \n", z, z)
 	
-   
-	
 }
