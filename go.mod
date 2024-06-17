@@ -1,4 +1,4 @@
-module github.com/Roberto-Tunon/GO-Puppy
+module github.com/Roberto-Tunon/Golang-Training
 
 go 1.22.3
 
