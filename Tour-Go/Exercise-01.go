@@ -20,7 +20,7 @@ func split(sum int) (x, y int) {
 	return x, y
 }
 
-func main() {
+func main1() {
 	fmt.Printf("Now you have %g problems.\n", math.Sqrt(7))
 	fmt.Println(math.Pi)
 	fmt.Println("My favorite number is", rand.Intn(10))
@@ -30,8 +30,8 @@ func main() {
 			  Inside a function, the := short assignment statement can be used in place of a var declaration with implicit type.
 		      Outside a function, every statement begins with a keyword (var, func, and so on) and so the := construct is not available.
 	*/
-	var i, j int = 1, 2
-	k := 3
+	// var i, j int = 1, 2
+	// k := 3
 
 	a, b := swap("hello", "world")
 	fmt.Println(a, b)
