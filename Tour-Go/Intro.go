@@ -39,6 +39,6 @@ func main()  {
 
    // this does work
    z = float64(m)
-   fmt.Printf("%v of type %T \n", z, z)
+   fmt.Printf("%v of type %T \n", z, z)  
 	
 }
