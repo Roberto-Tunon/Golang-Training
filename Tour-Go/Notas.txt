@@ -1,0 +1,24 @@
+Se ha creado el Repo: GO-Udemy-Todd-McLeod
+
+Dentro de él se ha creado el Repo: puppy
+Dentro de GO-Udemy-Todd-McLeod están las carpetas 'Tour-Go' y 'Tour-Go/Using-puppy'
+
+Para usar desde esta carpeta el Repo 'puppy' hay que ejecutar:
+-   go get github.com/Roberto-Tunon/puppy
+-   go mod tidy
+
+Cuando se crea un Repo nuevo hay que ejecutar los siguientes comandos en Git:
+-   git init
+-   touch temp.txt
+-   git add temp.txt
+-   git commit -m "First"
+-   git branch -M main
+-   git remote add origin git@github.com:Roberto-Tunon/GO-Barcelona-Training.git
+-   git push -u origin main
+
+Para inicializarlo en GO hay que ejecutar:
+go mod init github.com/Roberto-Tunon/GO-Barcelona-Training
+
+
+
+
